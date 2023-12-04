@@ -21,7 +21,7 @@ on:
 
 env:
   #REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_URL: https://github.com/ZD511751763/immortalwrt-mt798x
+  REPO_URL: https://github.com/ZirrorDmage/immortalwrt-mt798x
   #REPO_BRANCH: master
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
